@@ -7,4 +7,4 @@ This package will provide a tool to simulate linear delay systems with stochasti
 
 transforming the underlying differential equation into a mapping. Furthermore, with the use of mapping matrices the first- and second moment stability properties can be approximated.
 
-*The package will be released here (in multiple steps), as soon as the corresponding publications are accepted.*
+*The package will be released here, as soon as the corresponding publication is revised, the method is confirmed and accepted.*
